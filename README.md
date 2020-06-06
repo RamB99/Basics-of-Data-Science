@@ -1,4 +1,4 @@
-# Basics-of-Data-Science
+# Python pandas basics
 From IBM course, I am learning about pandas and data frames.
 
 In this lab, I analyze unemployment and GDP data provided by the course by creating a data frame via pandas. 
